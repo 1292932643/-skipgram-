@@ -1,3 +1,8 @@
+#该段代码为鄙人课程结课论文之用，是一段简单的skipgram代码实现
+
+#author:pie guo
+#date:12.29
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
